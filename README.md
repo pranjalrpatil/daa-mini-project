@@ -1,5 +1,5 @@
 # daa-mini-project
-movie recommendation using 'lazy greedy' algorithm
+movie recommendation using 'lazy greedy' algorithm (flask,python)
 
 Implementation screenshots-
 ![image](https://user-images.githubusercontent.com/76530833/120810807-fbff1100-c568-11eb-82d2-cde5bea46345.png)
